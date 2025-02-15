@@ -4,7 +4,9 @@
 ![Beaches](https://github.com/user-attachments/assets/de716094-be9c-40bd-8a0c-a29a8062e0d4)
 ![Dhaba](https://github.com/user-attachments/assets/2e8cfefd-8ef4-4451-a8fc-b3f5d65da582)
 ![EV Station](https://github.com/user-attachments/assets/5d601dd0-3b77-4170-9b05-7b242fe8875c)
-![Forest](https://github.com/user-attachments/assets/cd32d1ae-1718-48c2-9a9b-742d1c181c7e)
+![Forest](https://github.com/user-attachments/assets/cd32d1ae-1718-
+![Speed zone (1)](https://github.com/user-attachments/assets/641ae443-5905-4a7b-b5f3-83baca0828bd)
+48c2-9a9b-742d1c181c7e)
 ![Fuel Station](https://github.com/user-attachments/assets/e55279ae-70ea-4776-808c-08136b6bfc0d)
 ![Hilll Station](https://github.com/user-attachments/assets/4c31944a-6d1d-40c3-867f-4d15ba861b0b)
 ![Historical (1)](https://github.com/user-attachments/assets/9e62bbae-c8d0-4a56-9bef-5fe99727ebd6)
