@@ -17,3 +17,4 @@
 ![Temple](https://github.com/user-attachments/assets/acae9106-5659-4fe8-adc3-b1e5202ed73e)
 ![Toll gate](https://github.com/user-attachments/assets/0d06e3de-4a0d-4152-954f-11a5be69c9a3)
 ![Speed zone (1)](https://github.com/user-attachments/assets/641ae443-5905-4a7b-b5f3-83baca0828bd)
+![ToiletsImg](https://github.com/user-attachments/assets/46726374-b8b7-4d53-807a-8297dad071e6)
