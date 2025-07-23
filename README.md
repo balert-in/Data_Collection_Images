@@ -18,7 +18,7 @@
 ![Toll gate](https://github.com/user-attachments/assets/0d06e3de-4a0d-4152-954f-11a5be69c9a3)
 ![Speed zone (1)](https://github.com/user-attachments/assets/641ae443-5905-4a7b-b5f3-83baca0828bd)
 ![ToiletsImg](https://github.com/user-attachments/assets/46726374-b8b7-4d53-807a-8297dad071e6)
-![WhatsApp Image 2025-07-22 at 2 55 15 PM](https://github.com/user-attachments/assets/ecc7eec5-ead3-45d1-ad77-357377cd8818)
-![WhatsApp Image 2025-07-22 at 2 56 32 PM](https://github.com/user-attachments/assets/4717c298-df9b-46db-b8a7-2992d242baac)
+<img width="513" height="271" alt="Frame 1000011364" src="https://github.com/user-attachments/assets/2c435729-be0b-456c-878f-89796aedd2c2" />
+<img width="513" height="331" alt="Frame 1000011364 (1)" src="https://github.com/user-attachments/assets/c950d763-cfdd-4a56-b47d-f4267b871abd" />
 <img width="573" height="513" alt="Group 76021" src="https://github.com/user-attachments/assets/a24a346a-1368-47ba-aa43-f836fb5aec71" />
 
